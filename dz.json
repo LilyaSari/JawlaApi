@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Algiers", 
+    "latitude": "36.7764", 
+    "longitude": "3.0586",
+    "country_id": 1
+  }, 
+  {
+    "name": "Oran", 
+    "latitude": "35.6969", 
+    "longitude": "-0.6331",
+    "country_id": 1
+  }, 
+  {
+    "name": "Constantine", 
+    "latitude": "36.3650", 
+    "longitude": "6.6147",
+    "country_id": 1
+  }, 
+  {
+    "name": "Blida", 
+    "latitude": "36.4722", 
+    "longitude": "2.8333",
+    "country_id": 1
+  }, 
+  {
+    "name": "Batna", 
+    "latitude": "35.5500", 
+    "longitude": "6.1667",
+    "country_id": 1
+  }, 
+  {
+    "name": "Sétif", 
+    "latitude": "36.1900", 
+    "longitude": "5.4100",
+    "country_id": 1
+  }, 
+  {
+    "name": "Djelfa", 
+    "latitude": "34.6667", 
+    "longitude": "3.2500",
+    "country_id": 1
+  }, 
+  {
+    "name": "Annaba", 
+    "latitude": "36.9000", 
+    "longitude": "7.7667",
+    "country_id": 1
+  }, 
+  {
+    "name": "Sidi Bel Abbès", 
+    "latitude": "35.2000", 
+    "longitude": "-0.6333",
+    "country_id": 1
+  }, 
+  {
+    "name": "Biskra", 
+    "latitude": "34.8500", 
+    "longitude": "5.7333",
+    "country_id": 1
+  }, 
+  {
+    "name": "Tébessa", 
+    "latitude": "35.4000", 
+    "longitude": "8.1167",
+    "country_id": 1
+  }, 
+  {
+    "name": "Tiaret", 
+    "latitude": "35.3667", 
+    "longitude": "1.3167",
+    "country_id": 1
+  }, 
+  {
+    "name": "Bejaïa", 
+    "latitude": "36.7511", 
+    "longitude": "5.0642",
+    "country_id": 1
+  }, 
+  {
+    "name": "Tlemcen", 
+    "latitude": "34.8828", 
+    "longitude": "-1.3167",
+    "country_id": 1
+  }, 
+  {
+    "name": "Bordj Bou Arreridj", 
+    "latitude": "36.0667", 
+    "longitude": "4.7667",
+    "country_id": 1
+  }, 
+  {
+    "name": "Béchar", 
+    "latitude": "31.6333", 
+    "longitude": "-2.2000",
+    "country_id": 1
+  }, 
+  {
+    "name": "Skikda", 
+    "latitude": "36.8667", 
+    "longitude": "6.9000",
+    "country_id": 1
+  }, 
+  {
+    "name": "Souk Ahras", 
+    "latitude": "36.2864", 
+    "longitude": "7.9511",
+    "country_id": 1
+  }, 
+  {
+    "name": "Chlef", 
+    "latitude": "36.1647", 
+    "longitude": "1.3317",
+    "country_id": 1
+  }, 
+  {
+    "name": "M'Sila", 
+    "latitude": "35.7058", 
+    "longitude": "4.5419",
+    "country_id": 1
+  }, 
+  {
+    "name": "Mostaganem", 
+    "latitude": "35.9333", 
+    "longitude": "0.0903",
+    "country_id": 1
+  }, 
+  {
+    "name": "Médéa", 
+    "latitude": "36.2675", 
+    "longitude": "2.7500",
+    "country_id": 1
+  }, 
+  {
+    "name": "Tizi Ouzou", 
+    "latitude": "36.7169", 
+    "longitude": "4.0497",
+    "country_id": 1
+  }, 
+  {
+    "name": "El Oued", 
+    "latitude": "33.3683", 
+    "longitude": "6.8675",
+    "country_id": 1
+  }, 
+  {
+    "name": "Laghouat", 
+    "latitude": "33.8000", 
+    "longitude": "2.8650",
+    "country_id": 1
+  }, 
+  {
+    "name": "Ouargla", 
+    "latitude": "31.9500", 
+    "longitude": "5.3167",
+    "country_id": 1
+  }, 
+  {
+    "name": "Jijel", 
+    "latitude": "36.8206", 
+    "longitude": "5.7667",
+    "country_id": 1
+  }, 
+  {
+    "name": "Relizane", 
+    "latitude": "35.7372", 
+    "longitude": "0.5558",
+    "country_id": 1
+  }, 
+  {
+    "name": "Saïda", 
+    "latitude": "34.8303", 
+    "longitude": "0.1517",
+    "country_id": 1
+  }, 
+  {
+    "name": "Guelma", 
+    "latitude": "36.4619", 
+    "longitude": "7.4258",
+    "country_id": 1
+  }, 
+  {
+    "name": "Ghardaïa", 
+    "latitude": "32.4833", 
+    "longitude": "3.6667",
+    "country_id": 1
+  }, 
+  {
+    "name": "Mascara", 
+    "latitude": "35.4000", 
+    "longitude": "0.1333",
+    "country_id": 1
+  }, 
+  {
+    "name": "Khenchela", 
+    "latitude": "35.4167", 
+    "longitude": "7.1333",
+    "country_id": 1
+  }, 
+  {
+    "name": "Oum el Bouaghi", 
+    "latitude": "35.8706", 
+    "longitude": "7.1150",
+    "country_id": 1
+  }, 
+  {
+    "name": "El Bayadh", 
+    "latitude": "33.6831", 
+    "longitude": "1.0192",
+    "country_id": 1
+  }, 
+  {
+    "name": "Tamanrasset", 
+    "latitude": "22.7850", 
+    "longitude": "5.5228",
+    "country_id": 1
+  }, 
+  {
+    "name": "Tissemsilt", 
+    "latitude": "35.6072", 
+    "longitude": "1.8106",
+    "country_id": 1
+  }, 
+  {
+    "name": "Bouira", 
+    "latitude": "36.3783", 
+    "longitude": "3.8925",
+    "country_id": 1
+  }, 
+  {
+    "name": "Adrar", 
+    "latitude": "27.8742", 
+    "longitude": "-0.2939",
+    "country_id": 1
+  }, 
+  {
+    "name": "Tindouf", 
+    "latitude": "27.6753", 
+    "longitude": "-8.1286",
+    "country_id": 1
+  }, 
+  {
+    "name": "Boumerdes", 
+    "latitude": "36.7594", 
+    "longitude": "3.4728",
+    "country_id": 1
+  }, 
+  {
+    "name": "El Tarf", 
+    "latitude": "36.7669", 
+    "longitude": "8.3136",
+    "country_id": 1
+  }, 
+  {
+    "name": "Tipasa", 
+    "latitude": "36.5942", 
+    "longitude": "2.4430",
+    "country_id": 1
+  }, 
+  {
+    "name": "Illizi", 
+    "latitude": "26.5080", 
+    "longitude": "8.4829",
+    "country_id": 1
+  }, 
+  {
+    "name": "Naama", 
+    "latitude": "33.2678", 
+    "longitude": "-0.3111",
+    "country_id": 1
+  }, 
+  {
+    "name": "Aïn Temouchent", 
+    "latitude": "35.3044", 
+    "longitude": "-1.1400",
+    "country_id": 1
+  }, 
+  {
+    "name": "Aïn Defla", 
+    "latitude": "36.2583", 
+    "longitude": "1.9583",
+    "country_id": 1
+  }, 
+  {
+    "name": "Mila", 
+    "latitude": "36.4481", 
+    "longitude": "6.2622",
+    "country_id": 1
+  }
+]
